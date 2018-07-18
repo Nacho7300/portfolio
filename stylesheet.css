@@ -11,8 +11,8 @@ p:hover {
 }
 
 p{
-    font-size: 60px;
-    text-align: center;
+    font-size: 35px;
+    text-align: center
     
     
 }
@@ -30,12 +30,12 @@ p{
     color: #6AB187;
     font-size: 60px;
     margin: auto;
-    width: 50%;
+    width: 100%;
 }
 
 .picture {
     margin: auto;
-    width: 100%;
+    width: 50%;
     border-radius: 50%;
 }
 
@@ -70,8 +70,6 @@ a {
      font-size: 60px;
      color: #CB0000;
 }
-
-
 
 #contactinfo{
 text-align: center;
